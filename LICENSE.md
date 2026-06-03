@@ -1,4 +1,4 @@
-# 
+# Lightweight market making bot workflow for Mac OS | Updated market making bot workflow for PC Windows. Featuring trend following and breakout detection — optimized for maximum performance on every platform.
 
 
 
